@@ -1,0 +1,7 @@
+{
+  "name": "react-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Julian Kulesh <julian.kulesh@kupibilet.ru>",
+  "license": "MIT"
+}
